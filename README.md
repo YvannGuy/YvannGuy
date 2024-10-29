@@ -15,8 +15,5 @@ I'm currently working on Ui/Ux design<br>I'm looking to collaborate on JS websit
 ---
 [![](https://visitcount.itsvg.in/api?id=MrYG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/YvannGuyonnet851?country.x=FR&locale.x=fr_FR) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
