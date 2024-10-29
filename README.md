@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Ui/Ux design<br>I'm looking to collaborate on JS website <br>I'm looking for help with Html, css, JS<br>I'm currently learning Js, React, Vue, Node<br>Ask me about Graphic design <br>Fun fact I like anime
+I'm currently working on Ui/Ux design<br>I'm looking to collaborate on JS website <br>I'm looking for help with Html, css, JS<br>I'm currently learning Js, React, Node<br>Ask me about Graphic design <br>Fun fact I like anime
 
 
 ## 🌐 Socials:
