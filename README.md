@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer with a background in graphic design, passionate about design, and always looking for improvement. </br> Currently, I'm working on exciting projects and trying to contribute to the tech world. I'm improving my skills in JavaScript, React, Next.js, and learning Python. I'm eager to collaborate on JavaScript websites. Feel free to talk to me about everything! Fun fact: I love anime!
+I'm a software developer with a background in graphic design, passionate about design, and always looking for improvement. </br> Currently, I'm working on exciting projects and trying to contribute to the tech world.</br> I'm improving my skills in JavaScript, React, Next.js, and learning Python. </br> I'm eager to collaborate on JavaScript websites. Feel free to talk to me about everything! Fun fact: I love anime!
 
 
 ## 🌐 Socials:
