@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Ui/Ux design<br>I'm looking to collaborate on JS website <br>I'm looking for help with Html, css, JS<br>I'm currently learning Js, React, Node<br>Ask me about Graphic design <br>Fun fact I like anime
+I'm a software developer with a background in graphic design, passionate about design, and always looking for improvement. Currently, I'm working on exciting projects and trying to contribute to the tech world. I'm improving my skills in JavaScript, React, Next.js, and learning Python. I'm eager to collaborate on JavaScript websites. Feel free to talk to me about everything! Fun fact: I love anime!
 
 
 ## 🌐 Socials:
